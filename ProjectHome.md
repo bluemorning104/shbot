@@ -1,0 +1,1 @@
+A bot for the web game SlaveHack. This project will include a networked (TCP) backend with perl+WWW::Mechanize and a frontend created with PyGTK and Glade, and a minimal frontend that works in the command-line.
